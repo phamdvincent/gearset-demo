@@ -3625,6 +3625,9 @@
     <layoutAssignments>
         <layout>WorkTypeGroupMember-Work Type Group Member Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>test_custom_object__c-test custom object Layout</layout>
+    </layoutAssignments>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>

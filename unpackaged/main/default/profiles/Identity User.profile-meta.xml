@@ -3630,6 +3630,9 @@
     <layoutAssignments>
         <layout>WorkTypeGroupMember-Work Type Group Member Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>test_custom_object__c-test custom object Layout</layout>
+    </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
