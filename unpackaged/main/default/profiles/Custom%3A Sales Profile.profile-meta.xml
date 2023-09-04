@@ -3227,6 +3227,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>A_Custom_Object__c-A Custom Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>AuthorizationFormText-Authorization Form Text Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
