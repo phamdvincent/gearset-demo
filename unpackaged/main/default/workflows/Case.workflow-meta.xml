@@ -10,4 +10,15 @@
         <protected>false</protected>
         <reevaluateOnChange>false</reevaluateOnChange>
     </fieldUpdates>
+    <tasks>
+        <fullName>test3</fullName>
+        <assignedToType>owner</assignedToType>
+        <dueDateOffset>10</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <offsetFromField>Case.ClosedDate</offsetFromField>
+        <priority>Normal</priority>
+        <protected>false</protected>
+        <status>Not Started</status>
+        <subject>test3</subject>
+    </tasks>
 </Workflow>
